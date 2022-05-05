@@ -1,3 +1,1 @@
-# Quiz
-
-Svelte
+# Tab Svelte
